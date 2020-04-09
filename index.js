@@ -34,6 +34,8 @@ function greet(mTime){
     return ('Good Evening');
   }
 }
+  
+}
 
 /* Write your implementation of displayMessage() */
 function displayMessage(greet){
